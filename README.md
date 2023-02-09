@@ -25,3 +25,8 @@ Principais pontos aprendidos neste projeto:
 
 Obs: aplicativo criado através de curso disponível no youtube;
 
+![Captura de Tela 2023-02-08 às 22 09 43](https://user-images.githubusercontent.com/102997834/217689772-cedf8790-7544-477a-b92f-fd0d2f2d7183.png)
+
+
+https://user-images.githubusercontent.com/102997834/217689817-b616ac67-b0cd-40a7-ab04-86ae505d809a.mov
+
