@@ -13,7 +13,7 @@ import 'package:jogo_de_dados/main.dart';
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget(const Dados());
+    await tester.pumpWidget(const Dadoos());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);
